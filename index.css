@@ -1,0 +1,9 @@
+#hi {
+  height: 40px;
+  width: 40px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #C26F6F;
+}
